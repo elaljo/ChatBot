@@ -17,7 +17,7 @@ HTML, CSS, JavaScript for a smooth, responsive frontend
 
 This project demonstrates full-stack development, API integration, and modern AI interaction design.
 
-#✨ Features
+✨ Features
 
 🔹 Real-time AI responses
 
