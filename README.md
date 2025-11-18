@@ -1,8 +1,8 @@
-#🧠 ChatBot
+#🧠 ChatBot#
 
 An AI-powered chatbot web application built with Flask, Python, and the OpenAI API, featuring real-time conversations and a clean, responsive UI.
 
-#🚀 Overview
+#🚀 Overview#
 
 ChatBot is a lightweight yet powerful web application that allows users to interact with an AI assistant through a sleek, intuitive interface.
 The app uses:
